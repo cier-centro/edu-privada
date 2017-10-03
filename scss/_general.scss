@@ -202,10 +202,16 @@
                 width: 110px;
                 display: block;
             }
+            img {
+                border-radius: 15px;
+            }
         }
         .media-body {
             .media-heading {
                 margin-top: 0 !important;
+            }
+            p {
+                padding: 0 !important;
             }
         }
      }
