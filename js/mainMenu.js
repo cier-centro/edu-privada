@@ -10,6 +10,7 @@
       'inclusionExtraedad' : ["95180","95181","95182"],
       'comunidadVidaEscolar' : ["95174","95178","95194","95197","95198"],
       'comunidadParticipacion' : ["95199","95200","95201","95202"],
+      'organizacionCalendario' : ["95183","95186"],
       'organizacionAdministracion' : ["95187","95189","95190"],
     };
 
@@ -17,7 +18,6 @@
       'inclusionDiscapacidad' : ["105460"],
       'inclusionTalentosos' : ["95321"],
       'comunidadResponsabilidad' : ["105459"],
-      'organizacionCalendario' : ["95183","95186"],
     };
 
     window.onload = function() {
@@ -74,7 +74,7 @@
       parentMenuArray['formacion'] = childrenMenus.basica.concat(childrenMenus.media).concat(childrenMenus.docentes);
       parentMenuArray['inclusion'] = childrenMenus.inclusionExtraedad.concat(noChildrenMenus.inclusionDiscapacidad).concat(noChildrenMenus.inclusionTalentosos);
       parentMenuArray['comunidad'] = childrenMenus.comunidadVidaEscolar.concat(childrenMenus.comunidadParticipacion).concat(noChildrenMenus.comunidadResponsabilidad);
-      parentMenuArray['organizacion'] = childrenMenus.organizacionAdministracion.concat(noChildrenMenus.organizacionCalendario);
+      parentMenuArray['organizacion'] = childrenMenus.organizacionAdministracion.concat(childrenMenus.organizacionCalendario);
       return parentMenuArray;
     }
 

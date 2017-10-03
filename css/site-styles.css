@@ -670,6 +670,8 @@ h1.logo {
       top: 0;
       height: 100%;
       background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat -235px -121px; }
+.site-eduprivada .popover {
+  min-width: 200px; }
 .site-eduprivada .registration-content .row > * {
   text-align: center;
   margin: 15px 0; }
