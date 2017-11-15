@@ -636,7 +636,7 @@ h1.logo {
     width: 70px;
     top: 0;
     left: 0;
-    background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat; }
+    background: url("../img/img-spritesheet.png") no-repeat; }
   .site-eduprivada .lateral-content .lateral-buttons a:first-child span {
     background-position: -12px -102px; }
   .site-eduprivada .lateral-content .lateral-buttons a:nth-child(2) span, .site-eduprivada .lateral-content .lateral-buttons a:nth-child(3) span {
@@ -669,7 +669,7 @@ h1.logo {
       left: 0;
       top: 0;
       height: 100%;
-      background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat -235px -121px; }
+      background: url("../img/img-spritesheet.png") no-repeat -235px -121px; }
 .site-eduprivada .popover {
   min-width: 200px; }
 .site-eduprivada .registration-content .row > * {
@@ -890,7 +890,7 @@ h1.logo {
     width: 230px;
     position: absolute;
     bottom: 0;
-    background: rgba(29, 67, 131, 0.5) url("http://52.37.84.217/edu-privada/img/logo_edu_privada.png") no-repeat 18px center/contain;
+    background: rgba(29, 67, 131, 0.5) url("../img/logo_edu_privada.png") no-repeat 18px center/contain;
     z-index: 10; }
   .site-eduprivada #edu_privada_home_slider .views-slideshow-controls-text-pause {
     display: none; }
@@ -899,13 +899,13 @@ h1.logo {
     .site-eduprivada #edu_privada_home_slider .views_slideshow_controls_text_next a {
       color: transparent;
       padding-bottom: 35px;
-      background: url("http://52.37.84.217/edu-privada/img/img-arrow-next.png") no-repeat; }
+      background: url("../img/img-arrow-next.png") no-repeat; }
       .site-eduprivada #edu_privada_home_slider .views_slideshow_controls_text_next a:hover {
         /*background-position: -59px -55px !important;*/ }
   .site-eduprivada #edu_privada_home_slider .views-slideshow-controls-text-previous a {
     color: transparent;
     padding-bottom: 35px;
-    background: url("http://52.37.84.217/edu-privada/img/img-arrow-prev.png") no-repeat; }
+    background: url("../img/img-arrow-prev.png") no-repeat; }
     .site-eduprivada #edu_privada_home_slider .views-slideshow-controls-text-previous a:hover {
       /*background-position: -6px -55px !important;*/ }
   .site-eduprivada #edu_privada_home_slider .views_slideshow_slide, .site-eduprivada #edu_privada_home_slider .views_slideshow_slide img {
@@ -950,13 +950,13 @@ h1.logo {
         color: #5b5b5b !important;
         border: 2px solid #5b5b5b !important; }
         .site-eduprivada #edu_privada_home_slider .views_slideshow_slide > div .btn-info:hover span {
-          background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat -105px -200px !important; }
+          background: url("../img/img-spritesheet.png") no-repeat -105px -200px !important; }
       .site-eduprivada #edu_privada_home_slider .views_slideshow_slide > div .btn-info span {
         height: 27px;
         width: 27px;
         margin-left: 15px;
         float: right;
-        background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat -174px -25px; }
+        background: url("../img/img-spritesheet.png") no-repeat -174px -25px; }
   .site-eduprivada #edu_privada_home_slider .views-more-link {
     color: black;
     padding: 7px 15px;
@@ -1093,7 +1093,7 @@ h1.logo {
   padding: 10px 16px 10px 50px;
   position: relative; }
   .site-eduprivada .icon-button span {
-    background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat;
+    background: url("../img/img-spritesheet.png") no-repeat;
     height: 45px;
     width: 45px;
     position: absolute;
@@ -1108,9 +1108,9 @@ h1.logo {
 .site-eduprivada .table button {
   white-space: normal; }
 .site-eduprivada .cpa-button {
-  background-image: url("http://52.37.84.217/edu-privada/img/img_cpa.jpg") !important; }
+  background-image: url("../img/img_cpa.jpg") !important; }
 .site-eduprivada .complementary-contents-button {
-  background-image: url("http://52.37.84.217/edu-privada/img/img_contenidosComplementarios.jpg") !important; }
+  background-image: url("../img/img_contenidosComplementarios.jpg") !important; }
 .site-eduprivada .cpa-button, .site-eduprivada .complementary-contents-button {
   color: transparent !important;
   position: relative; }
@@ -1192,11 +1192,11 @@ h1.logo {
   height: 50px; }
 .site-eduprivada .modal .modal-footer .bienestar-laboral-logo {
   float: left;
-  background: url("http://52.37.84.217/edu-privada/img/logo-bienestarlaboral.png") no-repeat center/contain; }
+  background: url("../img/logo-bienestarlaboral.png") no-repeat center/contain; }
 .site-eduprivada .modal .modal-footer .new-country-logo {
-  background: url("http://52.37.84.217/edu-privada/img/logo-nuevopais.png") no-repeat center/contain; }
+  background: url("../img/logo-nuevopais.png") no-repeat center/contain; }
 .site-eduprivada .modal .modal-footer .mineducacion-logo {
-  background: url("http://52.37.84.217/edu-privada/img/logo-mineducacion.png") no-repeat center/contain; }
+  background: url("../img/logo-mineducacion.png") no-repeat center/contain; }
 .site-eduprivada .modal .modal-footer .new-country-logo, .site-eduprivada .modal .modal-footer .mineducacion-logo {
   float: right; }
 @media (max-width: 767px) {
@@ -1355,7 +1355,7 @@ h1.logo {
   color: #DE3A73;
   width: 40px; }
 .site-eduprivada .content .pager .pager-first a, .site-eduprivada .content .pager .pager-previous a, .site-eduprivada .content .pager .pager-next a, .site-eduprivada .content .pager .pager-last a {
-  background: url("http://52.37.84.217/edu-privada/img/img-pager-spritesheet.png"); }
+  background: url("../img/img-pager-spritesheet.png"); }
 .site-eduprivada .content .pager .pager-first a {
   background-position: 3px -20px; }
 .site-eduprivada .content .pager .pager-previous a {
@@ -1438,7 +1438,7 @@ h1.logo {
     position: absolute;
     height: 85px;
     width: 86px;
-    background: url("http://52.37.84.217/edu-privada/img/img-spritesheet.png") no-repeat;
+    background: url("../img/img-spritesheet.png") no-repeat;
     left: 40px;
     top: 0; }
   .site-eduprivada .site-title h1 {
@@ -1487,12 +1487,12 @@ h1.logo {
     width: 100%;
     height: 65px; }
   .site-eduprivada .related-sites .icfes-link .site-link {
-    background: url("http://52.37.84.217/edu-privada/img/logo_icfes.png") no-repeat center/contain; }
+    background: url("../img/logo_icfes.png") no-repeat center/contain; }
   .site-eduprivada .related-sites .icetex-link .site-link {
-    background: url("http://52.37.84.217/edu-privada/img/logo_icetex.png") no-repeat center/contain; }
+    background: url("../img/logo_icetex.png") no-repeat center/contain; }
   .site-eduprivada .related-sites .inci-link .site-link {
-    background: url("http://52.37.84.217/edu-privada/img/logo_inci.png") no-repeat center/contain; }
+    background: url("../img/logo_inci.png") no-repeat center/contain; }
   .site-eduprivada .related-sites .insor-link .site-link {
-    background: url("http://52.37.84.217/edu-privada/img/logo_insor.png") no-repeat center/contain; }
+    background: url("../img/logo_insor.png") no-repeat center/contain; }
 
 /*# sourceMappingURL=site-styles.css.map */
